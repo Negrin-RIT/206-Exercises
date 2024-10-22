@@ -1,7 +1,7 @@
 # Exercise-Start
 
-- IGME 202 - 2235
-- Unity Version - [2022.3.4 LTS](https://unity.com/releases/editor/qa/lts-releases?version=2022.3)
+- IGME 206 - 2241
+- Unity Version - [2022.3.38f1 LTS]
 - Player Settings
   - Resolution and Presentation
     - WebGL Template = `Default`
